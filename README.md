@@ -18,4 +18,4 @@ npm install dat.gui
 
 npm install stataudiocontext
 
-Run with npm run watch
+"RUN PROGRAM" npm run watch
