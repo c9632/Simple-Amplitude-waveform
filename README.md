@@ -7,10 +7,15 @@ Try humming or whistling a note to try the microphone out!
 *Sample Audio File belongs to Cameron Koo and only for educational and testing purposes.
 
 Make sure to type the following code before running the program in Terminal:
+
 npm install
+
 npm install meyda
+
 npm install p5
+
 npm install dat.gui
+
 npm install stataudiocontext
 
-Run with npm run watch.
+Run with npm run watch
