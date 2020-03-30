@@ -1,4 +1,4 @@
-This is a Simple frequency graph using Meyda. Feel free to import your own audio file. 
+<b> This is a Simple frequency graph using Meyda. Feel free to import your own audio file. </b>
 
 It also comes with the option of using microphone input and Loudness/Key Detection Visualizer using Meyda.
 
